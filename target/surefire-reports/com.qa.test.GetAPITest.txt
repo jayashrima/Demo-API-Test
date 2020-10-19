@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.test.GetAPITest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.181 s <<< FAILURE! - in com.qa.test.GetAPITest
+getAPITest(com.qa.test.GetAPITest)  Time elapsed: 1.071 s  <<< FAILURE!
+java.net.UnknownHostException: No such host is known (reqres.innull)
+	at com.qa.test.GetAPITest.getAPITest(GetAPITest.java:38)
+
